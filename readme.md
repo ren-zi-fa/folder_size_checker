@@ -26,4 +26,4 @@ check.exe E:\my-project
 
 ## picture
 
-[Screenshot](https://github.com/ren-zi-fa/folder_size_checker/blob/main/image.png)
+![Screenshot](https://raw.githubusercontent.com/ren-zi-fa/folder_size_checker/main/image.png)
